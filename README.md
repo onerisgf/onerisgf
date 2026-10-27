@@ -1,16 +1,46 @@
-## Hi there 👋
+<!-- Cabeçalho com onda -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=008080&height=150&section=header" width="100%"/>
 
-<!--
-**onerisgf/onerisgf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center" style="color: #00ffff;">Welcome to my code-land!</h2>
 
-Here are some ideas to get you started:
+<!-- Seção de Estatísticas -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onerisgf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onerisgf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Gráfico de Atividades -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onerisgf&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" />
+</p>
+
+### MAIN SKILLS:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blazor,php,mysql,react,nextjs,js,tailwind" />
+  </a>
+</p>
+
+### Other Knowledge:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,py,oracle,sqlite,prisma,jquery,angular,nodejs,html,css,bootstrap" />
+  </a>
+</p>
+
+### Soft Skills:
+<p align="left">
+  <img src="https://img.shields.io/badge/-LEADERSHIP-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-PROJECT_MANAGER-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-SOFTWARE_ANALYSIS-222222?style=for-the-badge" />
+</p>
+
+### Tools:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,git,github,gitlab,bitbucket,linux,figma,photoshop" />
+  </a>
+</p>
+
+<!-- Rodapé com onda -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=008080&height=100&section=footer" width="100%"/>
