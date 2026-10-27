@@ -1,7 +1,7 @@
 <!-- Cabeçalho com onda -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=008080&height=150&section=header" width="100%"/>
 
-<h2 align="center" style="color: #00ffff;">Welcome to my code-land!</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE...;I'M+ONERIS+GRÜNEWALD;Welcome+to+my+code-land!)](https://git.io/typing-svg)
 
 <!-- Seção de Estatísticas -->
 <p align="center">
