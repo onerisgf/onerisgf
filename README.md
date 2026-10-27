@@ -5,14 +5,10 @@
 
 <!-- Seção de Estatísticas -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onerisgf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onerisgf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=onerisgf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="49%" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onerisgf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="41%" height="210px" />
 </p>
 
-<!-- Gráfico de Atividades -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onerisgf&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" />
-</p>
 
 ### MAIN SKILLS:
 <p align="left">
