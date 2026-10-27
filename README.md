@@ -13,14 +13,15 @@
 ### MAIN SKILLS:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blazor,php,mysql,react,nextjs,js,tailwind" />
+    <img src="https://github.com/fabianoandrad/skill-icons/blob/31c5622b809a1b82edf28b1dfbbae3f85a7b442c/icons/blazor.svg" width="48px" height="48px" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,react,nextjs,js,tailwind" />
   </a>
 </p>
 
 ### Other Knowledge:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,oracle,sqlite,prisma,jquery,angular,nodejs,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=cs,py,sqlite,prisma,jquery,angular,nodejs,html,css,bootstrap" />
   </a>
 </p>
 
